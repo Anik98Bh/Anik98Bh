@@ -30,6 +30,6 @@
 
 <h2 align="center">Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
 <p align="center">
-<a href="www.linkedin.com/in/anik-bhowmik-1998anik27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anik-bhowmik" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/anik-bhowmik-1998anik27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.facebook.com/anik.alone.73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anik.alone.73" height="30" width="40" /></a>
 </p>
