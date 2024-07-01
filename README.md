@@ -1,1 +1,2 @@
-<img src="https://svg.io/_next/image?url=https%3A%2F%2Fprod-svgio-infrastructure-contentbucketdd05a3b9-853uj7uztypy.s3.amazonaws.com%2F00%2F39%2F04%2Fbe%2Fcoding.png&w=640&q=75" alt="Mokkapps GitHub README header image">
+<h2 align="center">👋 Hello! I'm Anik.</h2>
+<img align="center" src="https://media.licdn.com/dms/image/D5616AQGkLKKSF4I6qg/profile-displaybackgroundimage-shrink_350_1400/0/1714646241228?e=1725494400&v=beta&t=WtFRfziEQiDxrtl1S783CuLFoETtN65-GNHYnTZU7jc" alt="Mokkapps GitHub README header image">
