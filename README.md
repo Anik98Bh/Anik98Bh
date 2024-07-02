@@ -10,7 +10,7 @@
 
 ### Stats
 
-![Anik's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Anik98Bh&hide=B)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Anik98Bh&theme=dark)](https://git.io/streak-stats)
 
 
 
