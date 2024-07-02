@@ -3,7 +3,10 @@
  <img align="center" src="https://media.licdn.com/dms/image/D5616AQGkLKKSF4I6qg/profile-displaybackgroundimage-shrink_350_1400/0/1714646241228?e=1725494400&v=beta&t=WtFRfziEQiDxrtl1S783CuLFoETtN65-GNHYnTZU7jc" alt="cover">
 </div>
 <h1 align="center">Hello! <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Anik.</h1>  
-<h3 align="center">A passionate Web Developer</h3> 
+<h3 align="center">A Passionate Web Developer</h3> 
+<br/>
+<p align="left">I am a Passionate Web Developer. I have completed learned about Web-development. I want to Explore my learnig Experience in real World. I am now ready to get hired. Lets explore my Github and connect with me. I want to express my innovative, creative skills for company growth through the assigned responsibility.</p>
+<hr/>
 
 ### Stats
 
